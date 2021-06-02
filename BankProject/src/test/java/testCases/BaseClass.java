@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.log4j.LogManager;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
@@ -40,11 +40,11 @@ public class BaseClass {
 		
 		System.setProperty("org.freemarker.loggerLibrary", "none");
 		
-		logger = LogManager.getLogger(BaseClass.class.getName());
+		//logger = LogManager.getLogger(BaseClass.class.getName());
 
-		//logger = Logger.getLogger("BankProject");
+		logger = Logger.getLogger("BankProject");
 		//logger = Logger.getLogger(BaseClass.class.getName());
-		PropertyConfigurator.configure("log4j2.properties");
+		PropertyConfigurator.configure("log4j.properties");
 		
 		
 		
