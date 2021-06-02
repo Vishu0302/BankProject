@@ -1,0 +1,239 @@
+2021-05-24 14:16:44,600 - BankProject -INFO - URL opened
+2021-05-24 14:16:45,162 - BankProject -INFO - Username Entered
+2021-05-24 14:16:45,459 - BankProject -INFO - Password Entered
+2021-05-24 14:16:47,171 - BankProject -INFO - Submit Clicked
+2021-05-24 21:39:55,628 - BankProject -INFO - URL opened
+2021-05-24 21:39:56,511 - BankProject -INFO - Username Entered
+2021-05-24 21:39:56,839 - BankProject -INFO - Password Entered
+2021-05-24 21:39:57,929 - BankProject -INFO - Submit Clicked
+2021-05-24 21:49:03,806 - BankProject -INFO - URL opened
+2021-05-24 21:49:04,797 - BankProject -INFO - Username Entered
+2021-05-24 21:49:05,197 - BankProject -INFO - Password Entered
+2021-05-24 21:49:06,897 - BankProject -INFO - Submit Clicked
+2021-05-24 21:55:26,291 - BankProject -INFO - URL opened
+2021-05-24 21:55:27,675 - BankProject -INFO - Username Entered
+2021-05-24 21:55:28,185 - BankProject -INFO - Password Entered
+2021-05-24 21:55:29,787 - BankProject -INFO - Submit Clicked
+2021-05-24 22:27:08,465 - BankProject -INFO - URL opened
+2021-05-24 22:27:08,957 - BankProject -INFO - Username Entered
+2021-05-24 22:27:09,223 - BankProject -INFO - Password Entered
+2021-05-24 22:27:09,932 - BankProject -INFO - Submit Clicked
+2021-05-25 13:07:40,539 - BankProject -INFO - URL opened
+2021-05-25 13:07:41,359 - BankProject -INFO - Username Entered
+2021-05-25 13:07:41,676 - BankProject -INFO - Password Entered
+2021-05-25 13:07:42,652 - BankProject -INFO - Submit Clicked
+2021-05-25 21:03:43,921 - BankProject -INFO - URL opened
+2021-05-25 21:03:44,818 - BankProject -INFO - Username Entered
+2021-05-25 21:03:45,079 - BankProject -INFO - Password Entered
+2021-05-25 21:03:46,953 - BankProject -INFO - Submit Clicked
+2021-05-25 21:08:07,192 - BankProject -INFO - URL opened
+2021-05-25 21:08:07,803 - BankProject -INFO - Username Entered
+2021-05-25 21:08:08,070 - BankProject -INFO - Password Entered
+2021-05-25 21:08:10,300 - BankProject -INFO - Submit Clicked
+2021-05-25 21:14:06,797 - BankProject -INFO - URL opened
+2021-05-25 21:14:07,478 - BankProject -INFO - Username Entered
+2021-05-25 21:14:07,839 - BankProject -INFO - Password Entered
+2021-05-25 21:14:10,548 - BankProject -INFO - Submit Clicked
+2021-05-25 21:14:10,588 - BankProject -INFO - Login Test Passed
+2021-05-25 21:26:38,565 - BankProject -INFO - URL opened
+2021-05-25 21:26:39,076 - BankProject -INFO - Username Entered
+2021-05-25 21:26:39,359 - BankProject -INFO - Password Entered
+2021-05-25 21:26:41,568 - BankProject -INFO - Submit Clicked
+2021-05-25 21:26:41,609 - BankProject -INFO - Login Test Passed
+2021-05-25 21:26:57,457 - BankProject -INFO - Username is Provided
+2021-05-25 21:26:57,728 - BankProject -INFO - Password is Provided
+2021-05-25 21:26:59,852 - BankProject -INFO - Click Submit
+2021-05-25 21:27:03,247 - BankProject -INFO - Login Passed
+2021-05-25 21:27:12,891 - BankProject -INFO - Username is Provided
+2021-05-25 21:27:13,163 - BankProject -INFO - Password is Provided
+2021-05-25 21:27:13,848 - BankProject -INFO - Click Submit
+2021-05-25 21:27:18,730 - BankProject -WARN - Login Failed
+2021-05-25 21:27:19,046 - BankProject -INFO - Username is Provided
+2021-05-25 21:27:19,332 - BankProject -INFO - Password is Provided
+2021-05-25 21:27:20,312 - BankProject -INFO - Click Submit
+2021-05-25 21:27:25,422 - BankProject -WARN - Login Failed
+2021-05-25 21:27:25,787 - BankProject -INFO - Username is Provided
+2021-05-25 21:27:26,053 - BankProject -INFO - Password is Provided
+2021-05-25 21:27:27,454 - BankProject -INFO - Click Submit
+2021-05-25 21:27:30,464 - BankProject -INFO - Login Passed
+2021-05-25 21:27:39,210 - BankProject -INFO - Username is Provided
+2021-05-25 21:27:39,467 - BankProject -INFO - Password is Provided
+2021-05-25 21:27:40,432 - BankProject -INFO - Click Submit
+2021-05-25 21:27:45,049 - BankProject -WARN - Login Failed
+2021-05-26 13:44:06,395 - BankProject -INFO - Username is Provided
+2021-05-26 13:44:06,760 - BankProject -INFO - Password is Provided
+2021-05-26 13:44:12,981 - BankProject -INFO - Click Submit Button
+2021-05-26 13:44:15,994 - BankProject -INFO - Providing Customer Details
+2021-05-26 14:05:34,026 - BankProject -INFO - URL opened
+2021-05-26 14:05:34,507 - BankProject -INFO - Username Entered
+2021-05-26 14:05:34,806 - BankProject -INFO - Password Entered
+2021-05-26 14:05:36,995 - BankProject -INFO - Submit Clicked
+2021-05-26 14:05:37,046 - BankProject -INFO - Login Test Passed
+2021-05-26 14:06:38,425 - BankProject -INFO - URL opened
+2021-05-26 14:06:38,924 - BankProject -INFO - Username Entered
+2021-05-26 14:06:39,239 - BankProject -INFO - Password Entered
+2021-05-26 14:06:44,055 - BankProject -INFO - Submit Clicked
+2021-05-26 14:06:44,086 - BankProject -INFO - Login Test Passed
+2021-05-26 14:06:54,415 - BankProject -INFO - Username is Provided
+2021-05-26 14:06:54,695 - BankProject -INFO - Password is Provided
+2021-05-26 14:06:56,817 - BankProject -INFO - Click Submit
+2021-05-26 14:06:59,916 - BankProject -INFO - Login Passed
+2021-05-26 14:07:10,178 - BankProject -INFO - Username is Provided
+2021-05-26 14:07:10,415 - BankProject -INFO - Password is Provided
+2021-05-26 14:07:11,438 - BankProject -INFO - Click Submit
+2021-05-26 14:07:16,417 - BankProject -WARN - Login Failed
+2021-05-26 14:07:16,732 - BankProject -INFO - Username is Provided
+2021-05-26 14:07:16,986 - BankProject -INFO - Password is Provided
+2021-05-26 14:07:17,925 - BankProject -INFO - Click Submit
+2021-05-26 14:07:22,601 - BankProject -WARN - Login Failed
+2021-05-26 14:07:22,883 - BankProject -INFO - Username is Provided
+2021-05-26 14:07:23,142 - BankProject -INFO - Password is Provided
+2021-05-26 14:07:24,091 - BankProject -INFO - Click Submit
+2021-05-26 14:07:27,101 - BankProject -INFO - Login Passed
+2021-05-26 14:08:07,829 - BankProject -INFO - Username is Provided
+2021-05-26 14:08:08,104 - BankProject -INFO - Password is Provided
+2021-05-26 14:08:09,066 - BankProject -INFO - Click Submit
+2021-05-26 14:08:13,619 - BankProject -WARN - Login Failed
+2021-05-26 14:09:24,476 - BankProject -INFO - URL opened
+2021-05-26 14:09:24,952 - BankProject -INFO - Username Entered
+2021-05-26 14:09:25,275 - BankProject -INFO - Password Entered
+2021-05-26 14:09:27,375 - BankProject -INFO - Submit Clicked
+2021-05-26 14:09:27,411 - BankProject -INFO - Login Test Passed
+2021-05-26 14:09:40,091 - BankProject -INFO - Username is Provided
+2021-05-26 14:09:40,378 - BankProject -INFO - Password is Provided
+2021-05-26 14:09:45,880 - BankProject -INFO - Click Submit
+2021-05-26 14:09:48,931 - BankProject -INFO - Login Passed
+2021-05-26 14:09:58,554 - BankProject -INFO - Username is Provided
+2021-05-26 14:09:58,815 - BankProject -INFO - Password is Provided
+2021-05-26 14:09:59,579 - BankProject -INFO - Click Submit
+2021-05-26 14:10:04,884 - BankProject -WARN - Login Failed
+2021-05-26 14:10:05,216 - BankProject -INFO - Username is Provided
+2021-05-26 14:10:05,481 - BankProject -INFO - Password is Provided
+2021-05-26 14:10:06,476 - BankProject -INFO - Click Submit
+2021-05-26 14:10:11,107 - BankProject -WARN - Login Failed
+2021-05-26 14:10:11,432 - BankProject -INFO - Username is Provided
+2021-05-26 14:10:11,700 - BankProject -INFO - Password is Provided
+2021-05-26 14:10:13,040 - BankProject -INFO - Click Submit
+2021-05-26 14:10:16,051 - BankProject -INFO - Login Passed
+2021-05-26 14:10:25,256 - BankProject -INFO - Username is Provided
+2021-05-26 14:10:25,570 - BankProject -INFO - Password is Provided
+2021-05-26 14:10:26,251 - BankProject -INFO - Click Submit
+2021-05-26 14:10:30,585 - BankProject -WARN - Login Failed
+2021-05-26 14:10:43,302 - BankProject -INFO - Username is Provided
+2021-05-26 14:10:43,599 - BankProject -INFO - Password is Provided
+2021-05-26 14:10:45,616 - BankProject -INFO - Click Submit Button
+2021-05-26 14:10:48,640 - BankProject -INFO - Providing Customer Details
+2021-05-26 14:20:54,118 - BankProject -INFO - Username is Provided
+2021-05-26 14:20:54,416 - BankProject -INFO - Password is Provided
+2021-05-26 14:20:56,483 - BankProject -INFO - Click Submit Button
+2021-05-26 14:20:59,497 - BankProject -INFO - Providing Customer Details
+2021-05-26 14:26:00,034 - BankProject -INFO - Username is Provided
+2021-05-26 14:26:00,337 - BankProject -INFO - Password is Provided
+2021-05-26 14:26:02,668 - BankProject -INFO - Click Submit Button
+2021-05-26 14:26:06,700 - BankProject -INFO - Link Clicked
+2021-05-26 14:26:06,701 - BankProject -INFO - Providing Customer Details
+2021-05-26 14:26:07,234 - BankProject -INFO - Name and Gender Entered
+2021-05-26 14:26:07,731 - BankProject -INFO - DOB Entered
+2021-05-26 14:26:08,791 - BankProject -INFO - Address Details Entered
+2021-05-26 14:26:09,522 - BankProject -INFO - Phone and Email Entered
+2021-05-26 14:26:14,778 - BankProject -INFO - Validation Started
+2021-05-26 14:26:15,385 - BankProject -INFO - TestCase Failed
+2021-05-26 19:59:05,741 - BankProject -INFO - URL opened
+2021-05-26 19:59:06,723 - BankProject -INFO - Username Entered
+2021-05-26 19:59:07,034 - BankProject -INFO - Password Entered
+2021-05-26 19:59:09,296 - BankProject -INFO - Submit Clicked
+2021-05-26 19:59:09,341 - BankProject -INFO - Login Test Passed
+2021-05-26 19:59:30,288 - BankProject -INFO - Username is Provided
+2021-05-26 19:59:30,588 - BankProject -INFO - Password is Provided
+2021-05-26 19:59:33,427 - BankProject -INFO - Click Submit
+2021-05-26 19:59:36,546 - BankProject -INFO - Login Passed
+2021-05-26 19:59:46,583 - BankProject -INFO - Username is Provided
+2021-05-26 19:59:46,849 - BankProject -INFO - Password is Provided
+2021-05-26 19:59:47,816 - BankProject -INFO - Click Submit
+2021-05-26 19:59:53,282 - BankProject -INFO - Username is Provided
+2021-05-26 19:59:53,578 - BankProject -INFO - Password is Provided
+2021-05-26 19:59:54,337 - BankProject -INFO - Click Submit
+2021-05-26 19:59:59,091 - BankProject -INFO - Username is Provided
+2021-05-26 19:59:59,353 - BankProject -INFO - Password is Provided
+2021-05-26 20:00:00,571 - BankProject -INFO - Click Submit
+2021-05-26 20:00:03,580 - BankProject -INFO - Login Passed
+2021-05-26 20:00:12,410 - BankProject -INFO - Username is Provided
+2021-05-26 20:00:12,677 - BankProject -INFO - Password is Provided
+2021-05-26 20:00:13,653 - BankProject -INFO - Click Submit
+2021-05-26 20:00:28,774 - BankProject -INFO - Username is Provided
+2021-05-26 20:00:29,044 - BankProject -INFO - Password is Provided
+2021-05-26 20:00:31,957 - BankProject -INFO - Click Submit Button
+2021-05-26 20:00:36,431 - BankProject -INFO - Link Clicked
+2021-05-26 20:00:36,432 - BankProject -INFO - Providing Customer Details
+2021-05-26 20:00:37,172 - BankProject -INFO - Name and Gender Entered
+2021-05-26 20:00:37,650 - BankProject -INFO - DOB Entered
+2021-05-26 20:00:38,725 - BankProject -INFO - Address Details Entered
+2021-05-26 20:00:39,388 - BankProject -INFO - Phone and Email Entered
+2021-05-26 20:00:44,760 - BankProject -INFO - Validation Started
+2021-05-26 20:00:45,476 - BankProject -INFO - TestCase Failed
+2021-05-26 20:09:29,466 - BankProject -INFO - URL opened
+2021-05-26 20:09:29,987 - BankProject -INFO - Username Entered
+2021-05-26 20:09:30,353 - BankProject -INFO - Password Entered
+2021-05-26 20:09:32,882 - BankProject -INFO - Submit Clicked
+2021-05-26 20:09:32,923 - BankProject -INFO - Login Test Passed
+2021-05-26 20:09:43,719 - BankProject -INFO - Username is Provided
+2021-05-26 20:09:44,015 - BankProject -INFO - Password is Provided
+2021-05-26 20:09:45,961 - BankProject -INFO - Click Submit
+2021-05-26 20:09:49,013 - BankProject -INFO - Login Passed
+2021-05-26 20:09:59,153 - BankProject -INFO - Username is Provided
+2021-05-26 20:09:59,445 - BankProject -INFO - Password is Provided
+2021-05-26 20:10:00,111 - BankProject -INFO - Click Submit
+2021-05-26 20:10:03,132 - BankProject -WARN - Login Failed
+2021-05-26 20:10:05,258 - BankProject -INFO - Username is Provided
+2021-05-26 20:10:05,515 - BankProject -INFO - Password is Provided
+2021-05-26 20:10:06,480 - BankProject -INFO - Click Submit
+2021-05-26 20:10:09,535 - BankProject -WARN - Login Failed
+2021-05-26 20:10:11,361 - BankProject -INFO - Username is Provided
+2021-05-26 20:10:11,613 - BankProject -INFO - Password is Provided
+2021-05-26 20:10:12,833 - BankProject -INFO - Click Submit
+2021-05-26 20:10:15,843 - BankProject -INFO - Login Passed
+2021-05-26 20:10:25,338 - BankProject -INFO - Username is Provided
+2021-05-26 20:10:25,615 - BankProject -INFO - Password is Provided
+2021-05-26 20:10:26,598 - BankProject -INFO - Click Submit
+2021-05-26 20:10:29,649 - BankProject -WARN - Login Failed
+2021-05-26 20:10:38,473 - BankProject -INFO - Username is Provided
+2021-05-26 20:10:38,815 - BankProject -INFO - Password is Provided
+2021-05-26 20:10:41,625 - BankProject -INFO - Click Submit Button
+2021-05-26 20:10:45,875 - BankProject -INFO - Link Clicked
+2021-05-26 20:10:45,876 - BankProject -INFO - Providing Customer Details
+2021-05-26 20:10:46,480 - BankProject -INFO - Name and Gender Entered
+2021-05-26 20:10:46,991 - BankProject -INFO - DOB Entered
+2021-05-26 20:10:47,991 - BankProject -INFO - Address Details Entered
+2021-05-26 20:10:48,666 - BankProject -INFO - Phone and Email Entered
+2021-05-26 20:10:53,950 - BankProject -INFO - Validation Started
+2021-05-26 20:10:54,511 - BankProject -INFO - TestCase Failed
+2021-05-26 20:59:29,770 - BankProject -INFO - URL opened
+2021-05-26 20:59:30,499 - BankProject -INFO - Username Entered
+2021-05-26 20:59:30,800 - BankProject -INFO - Password Entered
+2021-05-26 20:59:33,256 - BankProject -INFO - Submit Clicked
+2021-05-26 20:59:33,296 - BankProject -INFO - Login Test Passed
+2021-05-26 21:05:59,378 - BankProject -INFO - URL opened
+2021-05-26 21:05:59,840 - BankProject -INFO - Username Entered
+2021-05-26 21:06:00,126 - BankProject -INFO - Password Entered
+2021-05-26 21:06:09,108 - BankProject -INFO - Submit Clicked
+2021-05-26 21:06:09,150 - BankProject -INFO - Login Test Passed
+2021-05-27 20:26:47,226 - BankProject -INFO - URL opened
+2021-05-27 20:26:48,361 - BankProject -INFO - Username Entered
+2021-05-27 20:26:48,765 - BankProject -INFO - Password Entered
+2021-05-27 20:26:51,052 - BankProject -INFO - Submit Clicked
+2021-05-27 20:26:51,094 - BankProject -INFO - Login Test Passed
+2021-05-27 21:15:47,900 - BankProject -INFO - URL opened
+2021-05-27 21:15:48,824 - BankProject -INFO - Username Entered
+2021-05-27 21:15:49,130 - BankProject -INFO - Password Entered
+2021-05-27 21:15:51,323 - BankProject -INFO - Submit Clicked
+2021-05-27 21:15:51,359 - BankProject -INFO - Login Test Passed
+2021-05-27 21:34:19,542 - BankProject -INFO - URL opened
+2021-05-27 21:34:19,998 - BankProject -INFO - Username Entered
+2021-05-27 21:34:20,312 - BankProject -INFO - Password Entered
+2021-05-27 21:34:22,739 - BankProject -INFO - Submit Clicked
+2021-05-27 21:34:22,777 - BankProject -INFO - Login Test Passed
+2021-05-29 11:37:33,325 - BankProject -INFO - URL opened
+2021-05-29 11:37:33,854 - BankProject -INFO - Username Entered
+2021-05-29 11:37:34,179 - BankProject -INFO - Password Entered
+2021-05-29 11:37:36,441 - BankProject -INFO - Submit Clicked
+2021-05-29 11:37:36,477 - BankProject -INFO - Login Test Passed
